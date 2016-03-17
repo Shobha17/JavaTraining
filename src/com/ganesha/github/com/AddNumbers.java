@@ -9,7 +9,6 @@ public class AddNumbers {
 		int a = 5 ,b = 10, sum = 0;
 		sum = a + b;
 		System.out.println(sum);
-		System.out.println(sum);
 
 	}
 
